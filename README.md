@@ -14,7 +14,7 @@ For usage of StatsD metrics, the Agent must be [running and available](https://d
 - HTTP API Documentation: http://docs.datadoghq.com/api/
 - DatadogHQ: http://datadoghq.com
 
-See [CHANGELOG.md](CHANGELOG.md) for changes.
+See [CHANGELOG.md](https://github.com/DataDog/datadogpy/blob/master/CHANGELOG.md) for changes.
 
 Installation
 ------------
